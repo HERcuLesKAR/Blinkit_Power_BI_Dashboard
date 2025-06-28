@@ -53,7 +53,8 @@ The dashboard includes several visualizations, including charts that help to ana
 
 Below is a preview of the Blinkit Sales and Inventory Dashboard.
 
-![Dashboard Screenshot](path_to_screenshot.png)
+![Screenshot (377)](https://github.com/user-attachments/assets/1430fcd8-f2d2-413a-bacf-7f29e9e01363)
+
 
 ## Contributing
 
