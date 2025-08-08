@@ -1,6 +1,5 @@
 # Blinkit_Power_BI_Dashboard
 
-
 This repository contains the Power BI dashboard for analyzing Blinkit’s sales performance, customer satisfaction, and inventory distribution. It includes comprehensive visualizations, Key Performance Indicators (KPIs), and insights aimed at optimizing business strategies and performance.
 
 ## Project Overview
